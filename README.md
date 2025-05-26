@@ -51,7 +51,7 @@ JavaScript (vanilla)
 📂 Como Usar
 Clone este repositório:
 
-git clone https://github.com/seunome/calendario-treinamento.git
+git clone https://masukemdal.github.io/cronograma.universidade
 
 Abra o arquivo index.html em seu navegador.
 
