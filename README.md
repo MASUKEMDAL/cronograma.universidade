@@ -18,10 +18,15 @@ O calendário exibe:
 ## 🧱 Estrutura do Projeto
 
 /calendario-treinamento/
+
 │
+
 ├── index.html # Página principal com a estrutura do calendário
+
 ├── style.css # Estilos visuais e responsividade
+
 └── script.js # Funcionalidades interativas do calendário
+
 
 
 ---
