@@ -31,12 +31,9 @@ O calendário exibe:
 
 ---
 
-## 📸 Captura de Tela (Opcional)
+## 📸 Captura de Tela 
 
-Você pode adicionar aqui uma imagem do calendário renderizado:
-
-```markdown
-![Screenshot do calendário](screenshot.png)
+![image](https://github.com/user-attachments/assets/ba465466-6540-451a-835f-21df59cb733c)
 
 💡 Funcionalidades
 ✅ Interface limpa e responsiva
